@@ -1,11 +1,11 @@
 {
   "files": {
     "main.css": "https://umairmubasher.github.io/umairmubasher.github.io/static/css/main.b37bc815.css",
-    "main.js": "https://umairmubasher.github.io/umairmubasher.github.io/static/js/main.8424d9f2.js",
+    "main.js": "https://umairmubasher.github.io/umairmubasher.github.io/static/js/main.bcf5e91c.js",
     "static/css/64.bba8fa55.chunk.css": "https://umairmubasher.github.io/umairmubasher.github.io/static/css/64.bba8fa55.chunk.css",
-    "static/js/64.8c2f8342.chunk.js": "https://umairmubasher.github.io/umairmubasher.github.io/static/js/64.8c2f8342.chunk.js",
+    "static/js/64.e49bcbb4.chunk.js": "https://umairmubasher.github.io/umairmubasher.github.io/static/js/64.e49bcbb4.chunk.js",
     "static/css/769.b3cbb36b.chunk.css": "https://umairmubasher.github.io/umairmubasher.github.io/static/css/769.b3cbb36b.chunk.css",
-    "static/js/769.459b4317.chunk.js": "https://umairmubasher.github.io/umairmubasher.github.io/static/js/769.459b4317.chunk.js",
+    "static/js/769.edcc829e.chunk.js": "https://umairmubasher.github.io/umairmubasher.github.io/static/js/769.edcc829e.chunk.js",
     "static/media/Montserrat-Regular.ttf": "https://umairmubasher.github.io/umairmubasher.github.io/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
     "static/media/Agustina.woff": "https://umairmubasher.github.io/umairmubasher.github.io/static/media/Agustina.eb0c59dda4cc308cba96.woff",
     "static/media/puLogo.png": "https://umairmubasher.github.io/umairmubasher.github.io/static/media/puLogo.d6da3b7615ddf3bddb67.png",
@@ -25,14 +25,14 @@
     "index.html": "https://umairmubasher.github.io/umairmubasher.github.io/index.html",
     "static/media/talksCardBack.svg": "https://umairmubasher.github.io/umairmubasher.github.io/static/media/talksCardBack.73ed1545d58273ba64b0.svg",
     "main.b37bc815.css.map": "https://umairmubasher.github.io/umairmubasher.github.io/static/css/main.b37bc815.css.map",
-    "main.8424d9f2.js.map": "https://umairmubasher.github.io/umairmubasher.github.io/static/js/main.8424d9f2.js.map",
+    "main.bcf5e91c.js.map": "https://umairmubasher.github.io/umairmubasher.github.io/static/js/main.bcf5e91c.js.map",
     "64.bba8fa55.chunk.css.map": "https://umairmubasher.github.io/umairmubasher.github.io/static/css/64.bba8fa55.chunk.css.map",
-    "64.8c2f8342.chunk.js.map": "https://umairmubasher.github.io/umairmubasher.github.io/static/js/64.8c2f8342.chunk.js.map",
+    "64.e49bcbb4.chunk.js.map": "https://umairmubasher.github.io/umairmubasher.github.io/static/js/64.e49bcbb4.chunk.js.map",
     "769.b3cbb36b.chunk.css.map": "https://umairmubasher.github.io/umairmubasher.github.io/static/css/769.b3cbb36b.chunk.css.map",
-    "769.459b4317.chunk.js.map": "https://umairmubasher.github.io/umairmubasher.github.io/static/js/769.459b4317.chunk.js.map"
+    "769.edcc829e.chunk.js.map": "https://umairmubasher.github.io/umairmubasher.github.io/static/js/769.edcc829e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b37bc815.css",
-    "static/js/main.8424d9f2.js"
+    "static/js/main.bcf5e91c.js"
   ]
 }
