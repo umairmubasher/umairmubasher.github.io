@@ -38,8 +38,6 @@ const socialMediaLinks = {
   gmail: "muhamadumair7445@gmail.com",
   medium: "https://medium.com/@umairmubasher",
   stackoverflow: "https://stackoverflow.com/users/11687498/umair-mubasher",
-  facebook: "https://www.facebook.com/mumairmubasher",
-  instagram: "https://www.instagram.com/mumairmubasher/",
   // gitlab: "https://gitlab.com/username",
   // Instagram, Twitter and Kaggle are also supported in the links!
   // To customize icons and social links, tweak src/components/SocialMedia
@@ -411,7 +409,7 @@ const contactInfo = {
 
 const twitterDetails = {
   userName: "MUmairMubasher", //Replace "twitter" with your twitter username without @
-  display: true // Set true to display this section, defaults to false
+  display: false // Set true to display this section, defaults to false
 };
 
 const isHireable = true; // Set false if you are not looking for a job. Also isHireable will be display as Open for opportunities: Yes/No in the GitHub footer
