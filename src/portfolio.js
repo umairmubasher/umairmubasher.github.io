@@ -20,7 +20,7 @@ const illustration = {
 };
 
 const greeting = {
-  username: "Umair",
+  username: "MaroO",
   title: "Hi all, I'm Umair Mubasher",
   subTitle: emoji(
     "A passionate Full Stack Software Engineer 🚀 having experience of building Web and Mobile applications with JavaScript / ReactJs / NextJS /  NodeJs / MERN Stack / React Native and some other cool libraries and frameworks."
@@ -123,17 +123,6 @@ const educationInfo = {
   display: true, // Set false to hide this section, defaults to true
   schools: [
     {
-      schoolName: "Aamal Academy, Stanford University, California, USA",
-      logo: require("./assets/images/amalAcademyLogo.jpg"),
-      subHeader: "Apprenticeship Program",
-      duration: "Jan 2022 - July 2022",
-      desc: "Remote education startup funded by Stanford University that teaches professional skills to students and corporations",
-      descBullets: [
-        "Communication: Completed a competitive written application and interview process to be selected from over 4500 applicants for intensive 6-month Fellowship funded by Stanford University.",
-        "Skills development: Learned skills such as communication, leadership, problem solving, teamwork, etc, that will help me make a deeper impact on the job"
-      ]
-    },
-    {
       schoolName:
         "Punjab University College of Information Technology (PUCIT), Lahore, Pakistan",
       logo: require("./assets/images/puLogo.png"),
@@ -145,15 +134,23 @@ const educationInfo = {
       ]
     },
     {
+      schoolName: "Aamal Academy, Stanford University, California, USA",
+      logo: require("./assets/images/amalAcademyLogo.jpg"),
+      subHeader: "Apprenticeship Program",
+      duration: "Jan 2022 - July 2022",
+      desc: "Remote education startup funded by Stanford University that teaches professional skills to students and corporations",
+      descBullets: [
+        "Communication: Completed a competitive written application and interview process to be selected from over 4500 applicants for intensive 6-month Fellowship funded by Stanford University.",
+        "Skills development: Learned skills such as communication, leadership, problem solving, teamwork, etc, that will help me make a deeper impact on the job"
+      ]
+    },
+    {
       schoolName: "Punjab Group of Colleges (PGC), Lahore, Pakistan",
       logo: require("./assets/images/punjabCollege.png"),
       subHeader: "Intermediate Computer Science (ICS)",
       duration: "October 2016 - October 2018",
-      desc: "Education startup funded by Stanford University that teaches professional skills to students and corporations",
-      descBullets: [
-        "Communication: Completed a competitive written application and interview process to be selected from over 4500 applicants for intensive 3-month Fellowship funded by Stanford University.",
-        "Skills development: Investing 150 hours to develop business skills (e.g., communication, leadership, problem solving, teamwork, etc.) that will help me make a deeper impact on the job"
-      ]
+      desc: "Grade: A+ | Marks: 946/1100",
+      descBullets: []
     }
   ]
 };
@@ -168,14 +165,14 @@ const techStack = {
     },
     {
       Stack: "Backend",
-      progressPercentage: "80%"
+      progressPercentage: "70%"
     },
     {
       Stack: "Programming",
       progressPercentage: "75%"
     }
   ],
-  displayCodersrank: false // Set true to display codersrank badges section need to changes your username in src/containers/skillProgress/skillProgress.js:17:62, defaults to false
+  displayCodersrank: true // Set true to display codersrank badges section need to changes your username in src/containers/skillProgress/skillProgress.js:17:62, defaults to false
 };
 
 // Work experience section
@@ -231,35 +228,58 @@ const openSource = {
 
 // Some big projects you have worked on
 
-const bigProjects = {
-  title: "Big Projects",
+const grandEndeavors = {
+  title: "Grand Endeavors",
   subtitle: "SOME STARTUPS AND COMPANIES THAT I HELPED TO CREATE THEIR TECH",
   projects: [
     {
-      image: require("./assets/images/saayaHealthLogo.webp"),
-      projectName: "Saayahealth",
-      projectDesc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      image: require("./assets/images/lulaConvenienceLog.png"),
+      projectName: "LULA : Enabling Convenience Stores",
+      projectDesc:
+        "It is a platform where store owners can increase their store’s sales with 0% commission delivery.\n Users can create their virtual store and LULA for stores will help manage the ads and promotions, and help to grow your Lula virtual store on all major delivery platforms such as Uber Eats, DoorDash, and seamless, etc. The frontend is written in Ionic V6 and ReactJS and the backend is in NodeJS with Expressjs, PostgreSQL, and Socket.io. LULA Delivery uses AWS as a cloud provider and uses its various services such as S3, RDS, EC2, SES, Cloudfront, SNS and Route53",
       footerLink: [
         {
-          name: "Visit Website",
-          url: "http://saayahealth.com/"
-        }
+          name: "Lula Store App",
+          url: "https://app.luladelivery.store/orders"
+        },
+        {
+          name: "Visit WebSite",
+          url: "https://www.lulaconvenience.com/"
+        },
+        {
+          name: "Get Started",
+          url: "https://www.lulaconvenience.com/get-started/"
+        },
         //  you can add extra buttons here.
       ]
     },
     {
-      image: require("./assets/images/nextuLogo.webp"),
-      projectName: "Nextu",
-      projectDesc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      image: require("./assets/images/lulaManagerLogo.png"),
+      projectName: "LULA: Empowering Seamless Store Operations",
+      projectDesc:
+        "A pinnacle of centralized control for efficient store management. Real-time insights, inventory centralization, and menu harmonization elevate operational efficacy. The hub seamlessly integrates DSPs, unifies order management, and facilitates scalable growth. Lula Store Manager enhances operational efficiency, reduces costs, and ensures a consistently superior customer experience across your entire network",
       footerLink: [
         {
-          name: "Visit Website",
-          url: "http://nextu.se/"
+          name: "Lula Manager App",
+          url: "https://www.lulastoremanager.com/"
+        },        
+        //  you can add extra buttons here.
+      ]
+    },
+    {
+      image: require("./assets/images/nhChildLogo.png"),
+      projectName: "New Haven Child Care",
+      projectDesc:
+        "A tool that helps families easily access opportunities, resources, subsidies, and more through a comprehensive interactive, online system available to all families with young children. The NH Child is to provide quality early care and education experiences for all children ages zero to eight.",
+      footerLink: [
+        {
+          name: "NH Child Care Web App",
+          url: "https://nh-childcare.redx.online/"
         }
       ]
     }
   ],
-  display: false // Set false to hide this section, defaults to true
+  display: true // Set false to hide this section, defaults to true
 };
 
 // Achievement Section
@@ -406,7 +426,7 @@ export {
   techStack,
   workExperiences,
   openSource,
-  bigProjects,
+  grandEndeavors,
   achievementSection,
   blogSection,
   talkSection,

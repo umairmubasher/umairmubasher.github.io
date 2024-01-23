@@ -178,7 +178,7 @@ const workExperience = { .... }
 
 const openSource = { .... }
 
-const bigProjects = { .... }
+const grandEndeavors = { .... }
 
 const achievementSection = { .... }
 
