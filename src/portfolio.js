@@ -232,7 +232,7 @@ const grandEndeavors = {
   projects: [
     {
       image: require("./assets/images/lulaConvenienceLog.png"),
-      projectName: "LULA : Enabling Convenience Stores",
+      projectName: "Lula Commerce: Enabling Convenience Stores",
       projectDesc:
         "It is a platform where store owners can increase their store’s sales with 0% commission delivery.\n Users can create their virtual store and LULA for stores will help manage the ads and promotions, and help to grow your Lula virtual store on all major delivery platforms such as Uber Eats, DoorDash, and seamless, etc. The frontend is written in Ionic V6 and ReactJS and the backend is in NodeJS with Expressjs, PostgreSQL, and Socket.io. LULA Delivery uses AWS as a cloud provider and uses its various services such as S3, RDS, EC2, SES, Cloudfront, SNS and Route53",
       footerLink: [
@@ -253,7 +253,7 @@ const grandEndeavors = {
     },
     {
       image: require("./assets/images/lulaManagerLogo.png"),
-      projectName: "LULA: Empowering Seamless Store Operations",
+      projectName: "Lula Commerce: Empowering Seamless Store Operations",
       projectDesc:
         "A pinnacle of centralized control for efficient store management. Real-time insights, inventory centralization, and menu harmonization elevate operational efficacy. The hub seamlessly integrates DSPs, unifies order management, and facilitates scalable growth. Lula Store Manager enhances operational efficiency, reduces costs, and ensures a consistently superior customer experience across your entire network",
       footerLink: [
