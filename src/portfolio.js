@@ -247,7 +247,7 @@ const grandEndeavors = {
         {
           name: "Get Started",
           url: "https://www.lulaconvenience.com/get-started/"
-        },
+        }
         //  you can add extra buttons here.
       ]
     },
@@ -260,7 +260,7 @@ const grandEndeavors = {
         {
           name: "Lula Manager App",
           url: "https://www.lulastoremanager.com/"
-        },        
+        }
         //  you can add extra buttons here.
       ]
     },
