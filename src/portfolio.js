@@ -191,7 +191,7 @@ const workExperiences = {
     {
       role: "Software Engineer Intern",
       company: "AIMRS Lab - PUCIT",
-      companylogo: require("./assets/images/quoraLogo.png"),
+      companylogo: require("./assets/images/puLogo.png"),
       date: "Mar 2022 – Jul 2022",
       desc: "Part time - onSite",
       descBullets: [
